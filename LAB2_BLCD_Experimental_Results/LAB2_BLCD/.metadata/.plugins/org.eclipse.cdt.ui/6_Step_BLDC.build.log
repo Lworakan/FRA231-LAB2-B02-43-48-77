@@ -1,0 +1,10 @@
+21:05:58 **** Incremental Build of configuration Debug for project 6_Step_BLDC ****
+make -j16 all 
+arm-none-eabi-size  6_Step_BLDC.elf 
+   text	   data	    bss	    dec	    hex	filename
+  36148	   1160	   7160	  44468	   adb4	6_Step_BLDC.elf
+Finished building: default.size.stdout
+ 
+
+21:05:59 Build Finished. 0 errors, 0 warnings. (took 1s.49ms)
+

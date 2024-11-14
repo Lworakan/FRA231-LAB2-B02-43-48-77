@@ -1,0 +1,4 @@
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/stm32g4xx_mc_it.c:64:6:ADC1_2_IRQHandler	5
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/stm32g4xx_mc_it.c:102:6:TIM2_IRQHandler	6
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/stm32g4xx_mc_it.c:138:6:TIM1_UP_TIM16_IRQHandler	1
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/stm32g4xx_mc_it.c:152:6:TIM1_BRK_TIM15_IRQHandler	3

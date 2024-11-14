@@ -1,0 +1,6 @@
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/usart_aspep_driver.c:44:6:UASPEP_INIT	5
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/usart_aspep_driver.c:56:6:UASPEP_TX_INIT	3
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/usart_aspep_driver.c:93:6:UASPEP_RX_INIT	3
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/usart_aspep_driver.c:130:6:UASPEP_CFG_TRANSMISSION	2
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/usart_aspep_driver.c:153:6:UASPEP_CFG_RECEPTION	1
+D:/RMX/LAB2_BLCD/6_Step_BLDC/Src/usart_aspep_driver.c:169:6:UASPEP_IDLE_ENABLE	2
